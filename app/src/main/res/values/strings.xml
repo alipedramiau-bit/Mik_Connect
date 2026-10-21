@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MikroTik L2TP Connect</string>
+    <string name="hint_server">Server IP Address</string>
+    <string name="hint_port">Port (L2TP default 1701)</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_ipsec_secret">IPsec Pre-Shared Key</string>
+    <string name="btn_save">ذخیره پروفایل</string>
+    <string name="btn_connect">اتصال</string>
+    <string name="btn_disconnect">قطع اتصال</string>
+    <string name="status_label">وضعیت: %1$s</string>
+    <string name="status_disconnected">قطع</string>
+    <string name="status_connecting">در حال اتصال…</string>
+    <string name="profile_saved">پروفایل ذخیره شد</string>
+    <string name="error_missing_fields">سرور یا نام کاربری خالی است</string>
+    <string name="strongswan_missing">برنامه strongSwan برای اتصال L2TP/IPsec نصب نشده است</string>
+</resources>

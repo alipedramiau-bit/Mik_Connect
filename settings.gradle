@@ -1,0 +1,2 @@
+rootProject.name = 'MikroTikL2TPConnect'
+include ':app'
